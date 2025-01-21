@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kishorsenthilkumar104@gmail.com**
 
-- ⚡ Fun fact **I Think I am Always Trying to Know About new Technology**
+- ⚡ Fun fact **I believe I am constantly driven to learn and explore new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
