@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorsenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kishorsenthilkumar" /> </p>
 
-- 🌱 I’m currently learning **ETL Airflow**
+- 🌱 I’m currently learning **how to solve Big Data problems**
 
 - 💬 Ask me about **java,sql,python**
 
