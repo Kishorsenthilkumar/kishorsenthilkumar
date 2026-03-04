@@ -1,64 +1,87 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KISHOR.S!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishor+S;Aspiring+Data+Engineer;Building+Scalable+Data+Pipelines;" />
 </h1>
 
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">Aspiring Data Engineer | Big Data | ETL Pipelines | Data Platforms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorsenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kishorsenthilkumar" /> </p>
-
-- 🌱 I’m currently learning **how to solve Big Data problems**
-
-- 💬 Ask me about **Data Engineering **
-
-- 📫 How to reach me **kishorsenthilkumar104@gmail.com**
-
-- ⚡ Fun fact **I believe I am constantly driven to learn and explore new technologies**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:kishorsenthilkumar104@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/kishor-s-5b4332274">LinkedIn</a> •
+  <a href="https://github.com/Kishorsenthilkumar">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-  </a> 
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache-airflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech in **Artificial Intelligence and Data Science** at Panimalar Engineering College  
+
+🚀 **Aspiring Data Engineer** passionate about building **scalable data pipelines and data platforms**
+
+💡 Interested in solving **real-world big data problems using modern data engineering tools**
+
+📊 Strong foundation in **ETL pipelines, data modeling, and distributed data processing**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
+### Data Engineering
+<p>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorsenthilkumar&show_icons=true&locale=en&layout=compact" alt="kishorsenthilkumar" /></p>
+### Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishorsenthilkumar&show_icons=true&locale=en" alt="kishorsenthilkumar" /></p>
+### Cloud & Tools
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/snowflake-6.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsenthilkumar&" alt="kishorsenthilkumar" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kishorsenthilkumar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishorsenthilkumar&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorsenthilkumar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** kishorsenthilkumar104@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/kishor-s-5b4332274  
+💻 **GitHub:** https://github.com/Kishorsenthilkumar
+
+---
+
+⭐ *Building scalable data systems and learning something new every day.*
 
