@@ -26,6 +26,14 @@
 
 ---
 
+📄 Resume
+
+👉 (https://raw.githubusercontent.com/Kishorsenthilkumar/kishorsenthilkumar/main/Kishor_Resume%20(2).pdf)
+
+---
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
