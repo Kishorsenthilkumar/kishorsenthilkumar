@@ -1,32 +1,26 @@
-
-Readme · MD
 <h1 align="center">Kishorsenthilkumar / README.md</h1>
  
 <pre>
-                                                  kishor@devbox
-                                                  -------------
-                 ....  ......                     OS: ................ Windows 11 + WSL2 (Ubuntu)
-             ..                ..                 Host: ............... Ryzen 7, RTX 3050, 16GB RAM
-          ..      .:::--::.       ..              Uptime: .............. Fresher DE, building daily
-         .      ::.:..::::.         .             Kernel: ............. Linux 5.15 (WSL2)
-       .           ......     .       .           IDE: ................ Cursor, Jupyter, Terminal
-      .                                .
-     .          .:--===:.:-.            .         Languages.Programming: Python, SQL, PySpark
-    .          ::::=+-::-=+=             .        Languages.Tools: ..... dbt, Airflow, Spark, Kafka
-    .          =--:+*-:--=**...          .        Languages.Real: ...... Tamil, English
-               +**+##***###+-=.
-   .           :+=====++**+=--            .       Hobbies.Data: ........ Chess Analytics (Lichess)
-                --===+=====-                      Hobbies.Creative: .... 3D Art (Blender)
-                 -+++++=-:-=+.
-    .            -----::-+#*:            .        --- Contact ---
-     .          :%-::-+#%#:   ..        .         Email: ... kishorsenthilkumar104@gmail.com
-      .    .....*+-:#@@%=     ...:.    .          LinkedIn: linkedin.com/in/kishor-s-5b4332274
-       . ..... +*   -%*.      .....:. .           GitHub: .. github.com/Kishorsenthilkumar
-            . +@+ .#%=        ......              Lichess: . lichess.org/@/kishorsenthilkumar
-             .*=  +%-         ....
-                 .-:                              --- GitHub Stats ---
-                    ........                      Repos: ... [auto]     Stars: ..... [auto]
-                                                   Commits: . [auto]     Followers: . [auto]
+<span style="color:#ff2020">        ___________________________          </span>kishor@devbox
+<span style="color:#ff2020">       /                           \         </span>-------------
+<span style="color:#ff2020">      |   $ git commit -m &quot;fix&quot;    |         </span>OS: ................ Windows 11 + WSL2 (Ubuntu)
+<span style="color:#ff2020">      |   $ pytest --cov           |         </span>Host: ............... Ryzen 7, RTX 3050, 16GB RAM
+<span style="color:#ff2020">      |   ______________________   |         </span>Uptime: .............. Fresher DE, building daily
+<span style="color:#ff2020">      |  |                      |  |         </span>Kernel: ............. Linux 5.15 (WSL2)
+<span style="color:#ff2020">      |  |   &lt;/&gt;  DATA  ETL     |  |         </span>IDE: ................ Cursor, Jupyter, Terminal
+<span style="color:#ff2020">      |  |                      |  |         </span>
+<span style="color:#ff2020">      |  |______________________|  |         </span>Languages.Programming: Python, SQL, PySpark
+<span style="color:#ff2020">      |                            |         </span>Languages.Tools: ..... dbt, Airflow, Spark, Kafka
+<span style="color:#ff2020">       \___________________________/         </span>Languages.Real: ...... Tamil, English
+<span style="color:#ff2020">        \_________________________/          </span>
+<span style="color:#ff2020">         \_______________________/           </span>Hobbies.Data: ........ Chess Analytics (Lichess)
+<span style="color:#ff2020">      ___|_________________________|___      </span>Hobbies.Creative: .... 3D Art (Blender)
+<span style="color:#ff2020">     /                                  \    </span>
+<span style="color:#ff2020">    |___________________________________|    </span>--- Contact ---
+<span style="color:#ff2020">                                             </span>Email: ... kishorsenthilkumar104@gmail.com
+<span style="color:#ff2020">                                             </span>LinkedIn: linkedin.com/in/kishor-s-5b4332274
+<span style="color:#ff2020">                                             </span>GitHub: .. github.com/Kishorsenthilkumar
+<span style="color:#ff2020">                                             </span>Lichess: . lichess.org/@/kishorsenthilkumar
 </pre>
  
 ---
