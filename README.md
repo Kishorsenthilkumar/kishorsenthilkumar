@@ -5,11 +5,11 @@
 <span style="color:#ff2020">       /                           \         </span>-------------
 <span style="color:#ff2020">      |   $ git commit -m &quot;fix&quot;    |         </span>OS: ................ Windows 11 + WSL2 (Ubuntu)
 <span style="color:#ff2020">      |   $ pytest --cov           |         </span>Host: ............... Ryzen 7, RTX 3050, 16GB RAM
-<span style="color:#ff2020">      |   ______________________   |         </span>Uptime: .............. Fresher DE, building daily
+<span style="color:#ff2020">      |   ______________________   |         </span>Uptime: .............. Backend Engineer, building daily
 <span style="color:#ff2020">      |  |                      |  |         </span>Kernel: ............. Linux 5.15 (WSL2)
-<span style="color:#ff2020">      |  |   &lt;/&gt;  DATA  ETL     |  |         </span>IDE: ................ Cursor, Jupyter, Terminal
+<span style="color:#ff2020">      |  |   &lt;/&gt;  DATA  ETL     |  |         </span>IDE: ................ Goland, Cursor, Jupyter, Terminal
 <span style="color:#ff2020">      |  |                      |  |         </span>
-<span style="color:#ff2020">      |  |______________________|  |         </span>Languages.Programming: Python, SQL, PySpark
+<span style="color:#ff2020">      |  |______________________|  |         </span>Languages.Programming: Golang, C# .NET, Python, SQL, PySpark
 <span style="color:#ff2020">      |                            |         </span>Languages.Tools: ..... dbt, Airflow, Spark, Kafka
 <span style="color:#ff2020">       \___________________________/         </span>Languages.Real: ...... Tamil, English
 <span style="color:#ff2020">        \_________________________/          </span>
@@ -28,7 +28,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
  
 <p align="center">
-Fresher <b>Data Engineer</b> from Tamil Nadu, India — learning by building real, end-to-end<br/>
+ <b>Backend Engineer</b> from Tamil Nadu, India — learning by building real, end-to-end<br/>
 systems rather than tutorials. Philosophy: go <i>deep</i> on one tool at a time, not broad.
 </p>
 - 🔭 Currently deep in the **modern data stack** — Databricks, dbt, Airflow, Kafka, Delta Lake
