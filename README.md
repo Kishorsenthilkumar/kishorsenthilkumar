@@ -7,7 +7,7 @@
 <span style="color:#ff2020">      |   $ pytest --cov           |         </span>Host: ............... Ryzen 7, RTX 3050, 16GB RAM
 <span style="color:#ff2020">      |   ______________________   |         </span>Uptime: .............. Backend Engineer, building daily
 <span style="color:#ff2020">      |  |                      |  |         </span>Kernel: ............. Linux 5.15 (WSL2)
-<span style="color:#ff2020">      |  |   &lt;/&gt;  DATA  ETL     |  |         </span>IDE: ................ Goland, Cursor, Jupyter, Terminal
+<span style="color:#ff2020">      |  |   &lt;/&gt;  GO|Microservice     |  |         </span>IDE: ................ Goland, Cursor, Jupyter, Terminal
 <span style="color:#ff2020">      |  |                      |  |         </span>
 <span style="color:#ff2020">      |  |______________________|  |         </span>Languages.Programming: Golang, C# .NET, Python, SQL, PySpark
 <span style="color:#ff2020">      |                            |         </span>Languages.Tools: ..... dbt, Airflow, Spark, Kafka
